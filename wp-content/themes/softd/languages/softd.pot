@@ -1,0 +1,515 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: softd\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-12 11:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: softd"
+
+#: template-parts/content-list.php:38 template-parts/content-single.php:30
+#: template-parts/content-blog.php:39 template-parts/content-search.php:39
+#: template-parts/content-list-column.php:37
+msgid "% Comments"
+msgstr ""
+
+#: includes/softd-global-function.php:330
+msgid "(Edit)"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:50 includes/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: template-parts/content-list.php:38 template-parts/content-single.php:30
+#: template-parts/content-blog.php:39 template-parts/content-search.php:39
+#: template-parts/content-list-column.php:37
+msgid "0 Comments"
+msgstr ""
+
+#: template-parts/content-list.php:38 template-parts/content-single.php:30
+#: template-parts/content-blog.php:39 template-parts/content-search.php:39
+#: template-parts/content-list-column.php:37
+msgid "1 Comment"
+msgstr ""
+
+#: 404.php:35 includes/softd-breadcrumb.php:304
+msgid "404"
+msgstr ""
+
+#: functions.php:264 functions.php:273 functions.php:282 functions.php:291
+#: functions.php:300 functions.php:309
+msgid "Add widgets here."
+msgstr ""
+
+#: woocommerce/cart/cart.php:148 woocommerce/cart/cart.php:149
+msgid "Apply coupon"
+msgstr ""
+
+#: includes/softd-breadcrumb.php:274 includes/softd-breadcrumb.php:279
+#: includes/softd-breadcrumb.php:284
+msgid "Archive for"
+msgstr ""
+
+#: includes/softd-breadcrumb.php:289
+msgid "Author"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#. Name of the template
+#: includes/softd-breadcrumb.php:11
+msgid "Blog"
+msgstr ""
+
+#: includes/softd-breadcrumb.php:294
+msgid "Blog Archives"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Both Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Grid"
+msgstr ""
+
+#. Name of the template
+#: functions.php:262
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Left Sidebar 2column"
+msgstr ""
+
+#. Name of the template
+#: functions.php:271
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Right Sidebar 2column"
+msgstr ""
+
+#: includes/softd-global-function.php:517
+msgid "Buy Now"
+msgstr ""
+
+#: includes/softd-tgm-activation.php:27
+msgid "Cmb2"
+msgstr ""
+
+#: includes/softd-global-function.php:271
+#: includes/softd-global-function.php:284
+msgid "Comment"
+msgstr ""
+
+#: comments.php:29 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/content-list.php:41 template-parts/content-single.php:33
+#: template-parts/content-blog.php:42 template-parts/content-search.php:42
+#: template-parts/content-list-column.php:40
+msgid "Comments Off"
+msgstr ""
+
+#: comments.php:43
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/softd-tgm-activation.php:22
+msgid "Contact form 7"
+msgstr ""
+
+#: footer.php:424
+msgid "Copyright &copy; softd 2020 all right reserved."
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146
+msgid "Coupon:"
+msgstr ""
+
+#: includes/softd-global-function.php:8
+msgid "Create Menu"
+msgstr ""
+
+#: includes/softd-global-function.php:461
+msgid "Default Sort"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Delete"
+msgstr ""
+
+#: includes/softd-global-function.php:261
+msgid "E-mail Address"
+msgstr ""
+
+#. %s: Name of current post
+#: includes/template-tags.php:72
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/softd-tgm-activation.php:42
+msgid "Elementor"
+msgstr ""
+
+#: includes/softd-global-function.php:262
+msgid "Email Address"
+msgstr ""
+
+#: functions.php:321
+msgid "Footer "
+msgstr ""
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr ""
+
+#: 404.php:39
+msgid "Go Home"
+msgstr ""
+
+#: includes/softd-breadcrumb.php:26 includes/softd-breadcrumb.php:255
+#: includes/softd-breadcrumb.php:332
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "https://demo.themexbd.com/wpv/softd"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.templatemonster.com/authors/themex/"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Image"
+msgstr ""
+
+#: includes/softd-tgm-activation.php:52
+msgid "Instagram"
+msgstr ""
+
+#: includes/softd-global-function.php:290
+msgid "leave a comment "
+msgstr ""
+
+#. %s: post title
+#: includes/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: includes/softd-global-function.php:174
+msgid "Login"
+msgstr ""
+
+#: includes/softd-global-function.php:170
+msgid "Logout"
+msgstr ""
+
+#: includes/softd-tgm-activation.php:32
+msgid "Mailchimp for WP"
+msgstr ""
+
+#: footer.php:111
+msgid "mailto:"
+msgstr ""
+
+#: functions.php:50
+msgid "Main Menu"
+msgstr ""
+
+#. Name of the template
+msgid "Main template"
+msgstr ""
+
+#: functions.php:53
+msgid "Mobile Menu"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Roboto, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:137 functions.php:138
+msgctxt "Mulish font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/softd-global-function.php:255
+msgid "Name"
+msgstr ""
+
+#: includes/softd-global-function.php:464
+msgid "New Product"
+msgstr ""
+
+#: comments.php:33 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: search.php:43
+msgid "No Any Posts Found"
+msgstr ""
+
+#: comments.php:32 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: includes/softd-tgm-activation.php:47
+msgid "One Click Demo Import"
+msgstr ""
+
+#: functions.php:51
+msgid "One Page Menu"
+msgstr ""
+
+#: 404.php:36
+msgid "Oops! The page you are looking for does not exist."
+msgstr ""
+
+#. Name of the template
+#: functions.php:280
+msgid "Page Left Sidebar"
+msgstr ""
+
+#. Name of the template
+#: functions.php:289
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: template-parts/content-single.php:52 template-parts/content-page.php:42
+msgid "Pages:"
+msgstr ""
+
+#: give/single-give-form/featured-image.php:42
+msgid "Placeholder"
+msgstr ""
+
+#: includes/demo/txbd-click-import.php:16
+msgid ""
+"Please Click The Demo Import Button and Please waiting for a few minutes, do "
+"not close the window or refresh the page until the data is imported."
+msgstr ""
+
+#: functions.php:307
+msgid "Popup Menu Sidebar"
+msgstr ""
+
+#: includes/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: includes/softd-global-function.php:287
+msgid "Post Comment"
+msgstr ""
+
+#: includes/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: includes/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr ""
+
+#: includes/softd-global-function.php:466
+msgid "Price: high to low"
+msgstr ""
+
+#: includes/softd-global-function.php:465
+msgid "Price: low to high"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:77
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:103
+msgid "Quantity"
+msgstr ""
+
+#: includes/softd-tgm-activation.php:37
+msgid "Redux-framework"
+msgstr ""
+
+#: includes/softd-global-function.php:175
+msgid "Register"
+msgstr ""
+
+#: single-em_event.php:138
+msgid "RELATED EVENTS"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products show"
+msgstr ""
+
+#: woocommerce/cart/cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: includes/softd-global-function.php:322
+msgid "REPLY"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:27
+#: woocommerce/single-product/sale-flash.php:27
+msgid "Sale!"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: includes/softd-breadcrumb.php:299
+msgid "Search Results"
+msgstr ""
+
+#: functions.php:298
+msgid "Shop Left Sidebar"
+msgstr ""
+
+#. Name of the theme
+msgid "softd"
+msgstr ""
+
+#. Description of the theme
+msgid "softd - Website Builder For WordPress &amp; Refrigerator Service"
+msgstr ""
+
+#: includes/softd-tgm-activation.php:14
+msgid "softd Helper Plugin"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:125
+msgid "Subtotal"
+msgstr ""
+
+#: includes/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: footer.php:114
+msgid "tel:"
+msgstr ""
+
+#. Author of the theme
+msgid "themexbd"
+msgstr ""
+
+#: search.php:44
+msgid ""
+"There are no posts which match your query, please try a different search "
+"term."
+msgstr ""
+
+#: functions.php:49
+msgid "Top Menu"
+msgstr ""
+
+#: includes/softd-global-function.php:463
+msgid "Top Rating"
+msgstr ""
+
+#: includes/softd-global-function.php:462
+msgid "Top Sale"
+msgstr ""
+
+#: includes/softd-global-function.php:195
+msgid "Type Your Keyword"
+msgstr ""
+
+#: woocommerce/cart/cart.php:159
+msgid "Update cart"
+msgstr ""
+
+#: includes/softd-global-function.php:267
+msgid "Website"
+msgstr ""
+
+#. Name of the template
+msgid "WITR Blank Template"
+msgstr ""
+
+#. Name of the template
+msgid "WITR Custom Footer Template"
+msgstr ""
+
+#. Name of the template
+msgid "WITR Shop Template"
+msgstr ""
+
+#: includes/softd-global-function.php:271
+#: includes/softd-global-function.php:284
+msgid "Write your comment..."
+msgstr ""
+
+#: includes/softd-breadcrumb.php:24
+msgid "You are currently here!"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: includes/softd-global-function.php:256
+msgid "Your Name"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:57
+msgid "Your order"
+msgstr ""
+
+#: includes/softd-global-function.php:268
+msgid "Your Website"
+msgstr ""

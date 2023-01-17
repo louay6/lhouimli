@@ -1,0 +1,60 @@
+
+---Downloaded files---
+The import files for: Theme - softd were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8085/wordpress-wrok-2
+Data file = C:\xampp\htdocs\wordpress-wrok-2/wp-content/themes/softd//includes/demo/softd.xml
+Widget file = C:\xampp\htdocs\wordpress-wrok-2/wp-content/themes/softd//includes/demo/softd-widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress-wrok-2/wp-content/themes/softd//includes/demo/softd-export.dat
+Redux files:
+softd_opt -> C:\xampp\htdocs\wordpress-wrok-2/wp-content/themes/softd//includes/demo/redux/softd_opt.json 
+
+
+---Importing widgets---
+Blog Left Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - Categories - Widget already exists
+EM Recent Portfolio - Recent Portfolio - Widget already exists
+Meta - No Title - Widget already exists
+Calendar - No Title - Widget already exists
+
+Blog Right Sidebar : 
+
+Search - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+EM Recent Portfolio - Recent Portfolio - Widget already exists
+Categories - Categories - Widget already exists
+Calendar - No Title - Widget already exists
+
+Footer 1 : 
+
+EM: Short Description - No Title - Widget already exists
+
+Footer 2 : 
+
+Navigation Menu - Helpful Links - Widget already exists
+
+Footer 3 : 
+
+Navigation Menu - Services List - Widget already exists
+
+Footer 4 : 
+
+EM Address Widget - Contact Info - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: softd_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

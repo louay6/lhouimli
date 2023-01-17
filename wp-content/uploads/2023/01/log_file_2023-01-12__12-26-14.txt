@@ -1,0 +1,88 @@
+
+---Downloaded files---
+The import files for: Theme - softd were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8085/wordpress-wrok-2
+Data file = C:\xampp\htdocs\wordpress-wrok-2/wp-content/themes/softd//includes/demo/softd.xml
+Widget file = C:\xampp\htdocs\wordpress-wrok-2/wp-content/themes/softd//includes/demo/softd-widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress-wrok-2/wp-content/themes/softd//includes/demo/softd-export.dat
+Redux files:
+softd_opt -> C:\xampp\htdocs\wordpress-wrok-2/wp-content/themes/softd//includes/demo/redux/softd_opt.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Left Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Archives - No Title - Imported
+Categories - Categories - Imported
+EM Recent Portfolio - Recent Portfolio - Imported
+Meta - No Title - Imported
+Calendar - No Title - Imported
+
+Blog Right Sidebar : 
+
+Search - No Title - Imported
+Meta - No Title - Imported
+Recent Posts - No Title - Imported
+Archives - No Title - Imported
+EM Recent Portfolio - Recent Portfolio - Imported
+Categories - Categories - Imported
+Calendar - No Title - Imported
+
+Footer 1 : 
+
+EM: Short Description - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - Helpful Links - Imported
+
+Footer 3 : 
+
+Navigation Menu - Services List - Imported
+
+Footer 4 : 
+
+EM Address Widget - Contact Info - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: softd_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
