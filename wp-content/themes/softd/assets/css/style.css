@@ -999,6 +999,9 @@ table#wp-calendar td#today a{
 .witr_blog_both .calendar_wrap {
     overflow: scroll;
 }
+.logo img{
+    width: 180px !important;
+}
 .textwidget img {
     margin-bottom: 15px;
 }
@@ -1432,10 +1435,10 @@ ul.wp-block-gallery.alignleft {
 
 /* button default style */
 .witr_btn {
-    background: #ff5f63;
+    background: #676453;
     border-radius: 30px;
     color: #fff;
-    display: inline-block;
+  
     font-size: 18px;
     padding: 18px 30px;
     text-align: center;
@@ -1449,6 +1452,9 @@ ul.wp-block-gallery.alignleft {
 	background:#6540d4;
 	color: #fff;	
 } 
+.swiper-button-prev:hover, .swiper-button-next:hover{
+    color:#676453 !important;
+}
 
 /* video button i */
 .witr_btn i {
@@ -3522,6 +3528,9 @@ color: #ff5f63;
 .witr_cart_to_cross .cross-sells > h2{
    margin-bottom: 40px;	
 }
+a.dtbtn{
+    background-color: #FFF;
+}
 
 .woocommerce .witr_cart_to_cross .cart_totals table{
 	    padding-top: 15px !important;
@@ -5218,7 +5227,7 @@ position: absolute;
 
 /* Service Front Face */
 .witr_service_front_3d {
-    background: #ff5f63;
+    background: #fff;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5234,29 +5243,39 @@ position: absolute;
     width: 100%;
     z-index: -1;
 }
-
+.wpforms-field-label{
+    color: #FFF;
+}
 .witr_service_back_3d {
     background: #17161a;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;	
 }
-.witr_service_back_3d:before {
-    /* background: #ff5f6380; */
-    content: "";
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-    z-index: -1;
+.elementor-2684 .elementor-element.elementor-element-c2c65d7:hover .elementor-widget-container {
+    
+    border-style: solid;
+    border-width: 0px 0px 4px 0px;
+    border-color: #fff !important;}
+  
+.elementor-2684 .elementor-element.elementor-element-9b840a2:hover .elementor-widget-container {
+    border-style: solid;
+    border-width: 0px 0px 4px 0px;
+    border-color: #FFf  !important;
 }
-
+.elementor-2684 .elementor-element.elementor-element-2885520:hover .elementor-widget-container{
+border-style: solid;
+border-width: 0px 0px 4px 0px;
+border-color: #FFf  !important;}
 
 /* Service Service Button */
 .witr_service_btn_3d {
     margin-top: 27px;
     z-index: 999;
+}
+div.wpforms-container-full .wpforms-form .wpforms-required-label{
+
+    color: #FFF;
 }
 .witr_service_btn_3d a {
     border: 2px solid #fff;
@@ -5270,7 +5289,7 @@ position: absolute;
 }
 .witr_service_btn_3d  a:hover {
     background: #fff;
-    color: #ff5f63;
+  
 }
 
 
@@ -10774,7 +10793,7 @@ span.time-counts {
 }
 
 .mean-container .mean-nav ul li a:hover {
-    color:#ff5f63 ;
+    color:#676453;
     border-radius: 0;
 }
 
@@ -11141,7 +11160,7 @@ body {}
  img {
     max-width: 100%;
     height: auto;
-    padding-top: 30pxf;
+    
 }
 /* box layout */
 
@@ -11168,7 +11187,7 @@ softd HEADING TOP AREA CSS
     display: none;
 }
 .softd-header-top {
-    background: #ff5f63;
+    background: #676453;
 	    padding: 13px 0;
 }
 .top-address p {
@@ -11487,7 +11506,7 @@ softd HEADING NAV AREA CSS
     padding: 0;
 }
 .mean-container .mean-nav {
-    background: #ff5f63 none repeat scroll 0 0;
+    background: #676453 none repeat scroll 0 0 !important;
     float: none;
 }
 .main_menu_div {
@@ -11842,14 +11861,15 @@ a.dtbtn {
     font-size: 17px;
     margin-left: 20px;
     font-weight: 500;
-    background-color: #707070;
+    background-color: #676453;
     border-radius: 30px;
     color: #fff;
     padding: 10px 30px;
+    border: 3px #FFF solid;
     
 }
 a.dtbtn:hover {
-    background-color: orange;
+    background-color: white;
 }
 .redX {
     color: #ff5f63;
@@ -12706,7 +12726,7 @@ softd FOOTER MIDDLE AREA CSS
     content: "";
     position: absolute;
     top: 0;
-
+background-color: #676453 !important;
     height: 100%;
     width: 100%;
     left: 0;
@@ -12851,7 +12871,7 @@ EM40 SCROLL TOP CSS
 =========================*/
 
 #scrollUp {
-    background: red none repeat scroll 0 0;
+    background: #676453 none repeat scroll 0 0;
     bottom: 30px;
     color: #fff;
     font-size: 30px;
@@ -13102,7 +13122,7 @@ margin:0;
  .witr_section_title_inner h1{}
 .witr_section_title_inner h2{
 	font-size: 18px;
-    color: #ff5f63;
+    color: #676453;
     margin-bottom: 13px;
     display: inline-block;
  }
@@ -13159,6 +13179,14 @@ margin:0;
 .text-right .witr_bar_inner{
   margin-right:0px;	
 }
+.elementor-heading-title{
+    color:#676453;
+    font-size: 18px;
+    margin-top: 50px;
+}
+.elementor-2684 .elementor-element.elementor-element-9b840a2:hover .elementor-widget-container{
+    background-color: #FFF !important;
+}
 
 /* circale Bar css */
 .witr_bar_innerc{
@@ -13170,9 +13198,10 @@ margin:0;
     left: 0;
     top: 50%;
 	transform:translateY(-50%);
-    border:6px solid yellow;
+    border:5px solid #676453;
+    
     border-radius: 50%;
-    background: yellow;
+    
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
     -webkit-animation-timing-function: linear;
@@ -13188,9 +13217,9 @@ margin:0;
     right: 0;
     top: 50%;
 	transform:translateY(-50%);
-    border:6px solid green;
+    border:5px solid #676453;
     border-radius: 50%;
-    background: green;
+   
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
     -webkit-animation-timing-function: linear;
@@ -13366,7 +13395,7 @@ softd feature SECTION
 	    padding: 30px 15px 35px;
 }
 .em-service:hover {
- /*    background: #ff5f63; */
+     background: #fff !important;
 	position: relative;
 	-webkit-backface-visibility: hidden;
 	        backface-visibility: hidden;
@@ -13383,6 +13412,10 @@ softd feature SECTION
 	z-index:-1;
 	  transition: .5s;
 }
+h1{
+    font-size: 40px;
+}
+
 
 .service_top_text {
     display: block;
@@ -14480,11 +14513,9 @@ softd adn blog css
     top: 50%;
     text-align: center;
     z-index: 999;
-    
-            transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
 	opacity:0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	
 	transition:.5s;
 }
 .blog_add_icon a {
@@ -14574,7 +14605,7 @@ margin-right:3px;
 }
 .softd-blog-meta-left_adn a,
 .softd-blog-meta-left_adn span {
-    color: #888888;
+    color: #744574;
     font-size: 12px;
     margin-right: 5px;
     text-transform: capitalize;
@@ -14800,7 +14831,7 @@ softd event AREA CSS
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
 .witr_icon_adn a {
-    background: #ff5f63;
+    background: #ff0f63;
     color: #fff;
     display: block;
     height: 42px;
@@ -14833,7 +14864,7 @@ softd event AREA CSS
 	font-size: 22px;	
 }
 .event-page-title_adn a {
-    color: #333333;
+    color: #789204;
     text-transform: capitalize;
     font-weight: 600;
 }
@@ -16381,6 +16412,7 @@ margin-top:10px;
 .softd-description-area a{}
 .softd-description-area a img {
     margin: 26px 0;
+    width: 180px;
 }
 .softd-description-area p{}
 .footer-middle .softd-description-area p,
@@ -16401,9 +16433,9 @@ margin-top:10px;
     color: #fff;	
 }
 .softd-description-area .social-icons a:hover{
-	background:#6540d4;
-	border-color:#ff5f63;
-	color:#fff;
+	background:#fff;
+	border-color:#fff;
+	color:#676453;
 }
 
 /* circle progress */
@@ -17062,7 +17094,7 @@ position:relative;
 }
 .mean-container .mean-bar {
     float: none;
-    background: #ff5f63 none repeat scroll 0 0;
+    background: #676453 none repeat scroll 0 0;
     overflow: hidden;
 
 }
@@ -17633,7 +17665,9 @@ a.dtbtn,
 a.dtbtn:hover,
 .witr_btn:hover,
 .softd_button a:hover{
-	background:yellowgreen;
+	background:white;
+    color:black;
+    border: 3px solid #676453;
 }
 a.dtbtn{
 	border-radius:0px;	
