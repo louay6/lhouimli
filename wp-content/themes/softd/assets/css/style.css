@@ -12507,7 +12507,7 @@ a.comment-edit-link {
 	color: #fff;
 }
 .breadcumb-inner li a:hover{
-    color: #ff5f63;	
+    color: #676453;	
 }
 
 
@@ -12722,6 +12722,17 @@ softd FOOTER MIDDLE AREA CSS
 	background: #ff5f63;
 	position:relative;
 }
+
+
+.elementor-2684 .elementor-element.elementor-element-54039fc:hover .elementor-widget-container{
+    border: #676453 !important;
+}
+.elementor-2684 .elementor-element.elementor-element-ecaf57d:hover .elementor-widget-container{
+    border: #676453 !important;
+}
+.elementor-2684 .elementor-element.elementor-element-398c52e:hover .elementor-widget-container{
+    border: #676453 !important;
+}
 .witrfm_area:before {
     content: "";
     position: absolute;
@@ -12731,8 +12742,42 @@ background-color: #676453 !important;
     width: 100%;
     left: 0;
     right: 0;
+
     margin: auto;
 }
+
+.elementor-2684 .elementor-element.elementor-element-543d0f8:hover .elementor-widget-container{
+    border:#676453 !important ;
+}
+
+.elementor-2684 .elementor-element.elementor-element-aee8f65:hover .elementor-widget-container{
+    border:#676453 !important ;
+}
+
+
+
+
+
+.elementor-2684 .elementor-element.elementor-element-398c52e .all_color_service{
+    height: 190px;
+}
+.elementor-2684 .elementor-element.elementor-element-f282b5b .witr_section_title_inner p{
+    text-align: justify !important;
+}
+.elementor-2684 .elementor-element.elementor-element-e3a654a .witr_section_title_inner p{
+    text-align: justify !important;
+}
+.elementor-2684 .elementor-element.elementor-element-4bc0f65 .all_color_service p{
+    padding: 10px;
+}
+.service-item p{
+    padding: 10px;
+    text-align: justify;
+}
+.em-service-desc p{
+    text-align: justify !important;
+}
+.widget{text-align: center;}
 .footer-middle {
     padding: 65px 0 73px;
 }
@@ -13464,6 +13509,7 @@ margin: 10px 0 15px;
     border-radius: 5px;   
     display: inline-block;
     transition:.5s;
+    color: #676453;
 }
 .service-btna a:hover {
     color: #ff5f63;
@@ -13478,6 +13524,13 @@ margin: 10px 0 15px;
 .em-service:hover .service-btn > a {
     color: #fff;
 }
+.elementor-element .elementor-widget-container{
+    text-align: justify !important;
+}
+.elementor-column-gap-default>.elementor-column>.elementor-element-populated{
+    text-align: justify !important;
+}
+
 .service_hover_btn{
     position: absolute;
     bottom: 0;

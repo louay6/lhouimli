@@ -1970,6 +1970,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 .e-con > .elementor-widget > .elementor-widget-container, .e-con > .e-con-inner > .elementor-widget > .elementor-widget-container {
   height: 100%;
 }
+
 .elementor.elementor .e-con > .elementor-widget, .e-con.e-con > .e-con-inner > .elementor-widget {
   max-width: 100%;
 }
