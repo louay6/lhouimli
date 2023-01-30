@@ -756,6 +756,7 @@ margin-top: 29px;
     padding: 35px 30px 35px;
     border-radius: 8px;
     background: #fff;
+    display: none !important;
 	box-shadow: 0 0 30px rgb(0 0 0 / 7%);
 }
 .blog-left-side > div:last-child {
@@ -10291,6 +10292,10 @@ p.comment-form-cookies-consent {
 .video_area .col-md-12{
 	padding-left:0;
 	padding-right:0;
+    
+}
+.elementor-2684 .elementor-element.elementor-element-5f49c8a .all_color_service{
+    height: 153px;
 }
 
 /* tab event css */
@@ -11710,7 +11715,7 @@ softd HEADING NAV AREA CSS
     top: 130%;
     width: 217px;
     text-align: left;
-    background: #ff5f63;
+    background: #676453;
     margin: 0;
     padding: 15px 0;
     z-index: 9999;
@@ -11748,7 +11753,7 @@ softd HEADING NAV AREA CSS
 .softd_menu ul .sub-menu .sub-menu .sub-menu li:hover > a,
 .softd_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover > a {
     background: #fff;
-    color: #ff5f63;
+    color: #676453;
 }
 /* sub menu 2 */
 
@@ -12032,10 +12037,10 @@ softd BLOG AREA CSS
 }
 .softd-blog-meta-left a:hover,
 .softd-blog-meta-left span:hover {
-    color: #ff5f63;
+    color: #676453;
 }
 .softd-blog-meta-left i {
-    color: #ff5f63;
+    color: #676453;
     margin-right: 5px;
 }
 /* BLOG POST META RIGHT CSS */
@@ -12043,6 +12048,7 @@ softd BLOG AREA CSS
 .softd-blog-meta-right {
     float: right;
     padding: 0px 0;
+    
 }
 .softd-blog-meta-right a,
 .softd-blog-meta-right span {
@@ -12493,6 +12499,7 @@ a.comment-edit-link {
 }
 .breadcumb-inner ul {
 	font-weight: 600;	
+    display: none !important;
 }
  .breadcumb-inner li {
     display: inline-block;
@@ -12759,7 +12766,7 @@ background-color: #676453 !important;
 
 
 .elementor-2684 .elementor-element.elementor-element-398c52e .all_color_service{
-    height: 190px;
+    height: 215px;
 }
 .elementor-2684 .elementor-element.elementor-element-f282b5b .witr_section_title_inner p{
     text-align: justify !important;
