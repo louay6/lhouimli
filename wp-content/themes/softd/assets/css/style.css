@@ -12744,12 +12744,12 @@ softd FOOTER MIDDLE AREA CSS
     content: "";
     position: absolute;
     top: 0;
-background-color: #676453 !important;
+   opacity: .7;
     height: 100%;
     width: 100%;
     left: 0;
     right: 0;
-
+    
     margin: auto;
 }
 
@@ -12839,7 +12839,7 @@ background-color: #676453 !important;
 }
 .footer-middle .widget ul li a:hover,
 .footer-middle .widget ul li:hover:before {
-    color: #ff5f63;
+    color: #fff;
 }
 .recent-portfolio-area {
     display: -webkit-box;
@@ -14376,6 +14376,7 @@ line-height: 25px;
 
 .footer-address {
     padding-top: 12px;
+    color: white;
 }
 .footer-widget.address,
 .footer-widget.address p {
@@ -17751,4 +17752,26 @@ a.dtbtn{
 }
 .tx_relative_m,.tx_top2_relative{
 	position:relative;
+}
+
+.elementor-2684 .elementor-element.elementor-element-ea8a413:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-2684 .elementor-element.elementor-element-ea8a413 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{
+    height: 455px;
+    margin-top: 10px;
+}
+
+
+.elementor-2684 .elementor-element.elementor-element-398c52e .all_color_service{
+    height: 200px;
+}
+.elementor-2684 .elementor-element.elementor-element-ecaf57d .all_color_service{
+    height: 200px;
+}
+.elementor-2684 .elementor-element.elementor-element-54039fc .all_color_service{
+    height: 200px;
+}
+.elementor-2684 .elementor-element.elementor-element-543d0f8 .all_color_service{
+    height: 190px;
+}
+.elementor-2684 .elementor-element.elementor-element-7bf0ca5 > .elementor-background-overlay{
+    opacity: .7 !important;
 }
