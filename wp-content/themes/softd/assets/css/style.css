@@ -12784,7 +12784,7 @@ softd FOOTER MIDDLE AREA CSS
 .em-service-desc p{
     text-align: justify !important;
 }
-.widget{text-align: center;}
+.widget{text-align: left;}
 .footer-middle {
     padding: 65px 0 73px;
 }
